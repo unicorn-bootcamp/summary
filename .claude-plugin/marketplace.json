@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "summary-team",
+  "description": "summary 팀 Claude Code 플러그인 마켓플레이스",
+  "owner": {
+    "name": "summary team",
+    "email": "hiondal@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "summary",
+      "source": "./",
+      "description": "AI 뉴스 일일 요약 레포트 자동 생성 팀 플러그인",
+      "version": "1.0.0",
+      "author": {
+        "name": "summary team"
+      },
+      "keywords": ["summary", "news", "ai", "report"],
+      "category": "productivity"
+    }
+  ]
+}

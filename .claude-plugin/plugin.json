@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "summary",
+  "displayName": "Summary Plugin",
+  "version": "1.0.0",
+  "description": "AI 뉴스 일일 요약 레포트 자동 생성 팀 플러그인. 뉴스 검색·요약·검토 에이전트 3종 포함.",
+  "author": {
+    "name": "summary team",
+    "email": "hiondal@gmail.com"
+  },
+  "keywords": ["summary", "news", "ai", "report"],
+  "license": "MIT"
+}
